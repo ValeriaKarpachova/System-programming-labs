@@ -1,0 +1,17 @@
+# Executables
+*.exe
+*.com
+*.bin
+
+# Object and intermediate files
+*.obj
+*.o
+*.out
+
+# Listings and logs
+*.lst
+*.log
+
+# Backup files
+*.bak
+*~
