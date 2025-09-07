@@ -1,6 +1,5 @@
 # Executables
 *.exe
-*.com
 *.bin
 
 # Object and intermediate files
